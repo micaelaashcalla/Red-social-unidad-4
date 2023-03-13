@@ -17,7 +17,7 @@
 
 ### Link de nuestro proyecto:
 
-
+![Image text](https://github.com/joskim28/Red-social-unidad-4/blob/main/assets/img/incog-githud.png)
 
 ### Link de Git Hub Pages: 
 
